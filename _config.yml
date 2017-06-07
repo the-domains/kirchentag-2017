@@ -1,3 +1,16 @@
+layout_spectrum: 0.3193663839720153
+typography_spectrum: 0.2884956971822436
+color:
+  lightness: 0.6255506092791289
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  saturation: 0.8447071150799125
+  brandStrength: 0.8747085847069352
+  rhythmicContrast: 0.0185957563818792
 name: Kirchentag 2017
 analytics:
   twitter: delgiftweets
@@ -107,20 +120,7 @@ navigation:
   - type: external
     name: Zum Internetfenster der Gemeinde
     url: 'https://goo.gl/c7sXGH'
-layout_spectrum: 0.3158745046239346
-color:
-  lightness: 0.6232389411889017
-  brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
-  saturation: 0.8445318816229701
-  brandStrength: 0.02904302556999028
-  rhythmicContrast: 0.01486858585849404
 content_rating:
   adult: false
-typography_spectrum: 0.2818626172374934
 opengraph: {}
 title: Mal den Kirchentag gemeinsam erleben…
