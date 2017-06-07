@@ -1,0 +1,126 @@
+name: Kirchentag 2017
+analytics:
+  twitter: delgiftweets
+purpose:
+  - type: contact
+    url: 'mailto:michael@deutschegemeinde.fi'
+    label: E–Mail–Nachricht
+github: true
+description: >-
+  36. Deutscher Evangelischer Kirchentag in Berlin – Wittenberg, vom 24.–28. Mai
+  2017 — und die Deutsche Gemeinde in Finnland ist vor Ort …   'Du siehst mich'
+  (1. Mose 16,13)
+author: {}
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F8IhJ2oESAtc%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8IhJ2oESAtc&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8IhJ2oESAtc%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: Deutsche Gemeinde in Finnland
+          url: 'https://www.youtube.com/channel/UCW6V19XDzac9wc097nN21cA'
+          avatar: {}
+      '@context': 'http://schema.org'
+      keywords:
+        - ''
+      '@type': VideoObject
+      title: Erste Testaufnahmen zu Direktübertragung und Mitschnitt
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=8IhJ2oESAtc'
+      publisher:
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        domain: www.youtube.com
+      description: >-
+        Filmaufnahmen mit mobilen Geräten können bei und mit YouTube nur dann
+        live gesendet werden, wenn der eigene Kanal - in diesem Fall, der
+        YouTube-Kanal der Deutschen Gemeinde - mehr oder mindestens 1000
+        Abonnenten hat. Was bleibt... die Aufnahmen können auf diesem Weg
+        archiviert und nachträglich auf dem YouTube-Kanal geschaut werden.
+      related: []
+      app_links:
+        - app_store_id: '544007664'
+          namespace: ai
+          app_name: YouTube
+          url: 'vnd.youtube://www.youtube.com/watch?v=8IhJ2oESAtc&feature=applinks'
+          type: ios
+        - package: com.google.android.youtube
+          app_name: YouTube
+          namespace: ai
+          url: 'vnd.youtube://www.youtube.com/watch?v=8IhJ2oESAtc&feature=applinks'
+          type: android
+        - url: 'https://www.youtube.com/watch?v=8IhJ2oESAtc&feature=applinks'
+          type: web
+          namespace: ai
+        - id: '544007664'
+          namespace: twitter
+          url: 'vnd.youtube://www.youtube.com/watch?v=8IhJ2oESAtc&feature=applinks'
+          type: ipad
+          name: YouTube
+        - id: '544007664'
+          namespace: twitter
+          url: 'vnd.youtube://www.youtube.com/watch?v=8IhJ2oESAtc&feature=applinks'
+          type: iphone
+          name: YouTube
+        - id: com.google.android.youtube
+          namespace: twitter
+          url: 'https://www.youtube.com/watch?v=8IhJ2oESAtc'
+          type: googleplay
+          name: YouTube
+        - path: http/www.youtube.com/watch?v=8IhJ2oESAtc
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=8IhJ2oESAtc
+          package: '544007664'
+          namespace: google
+          type: ios
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+navigation:
+  - type: external
+    name: Zum Internetfenster der Gemeinde
+    url: 'https://goo.gl/c7sXGH'
+layout_spectrum: 0.3158745046239346
+color:
+  lightness: 0.6232389411889017
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  saturation: 0.8445318816229701
+  brandStrength: 0.02904302556999028
+  rhythmicContrast: 0.01486858585849404
+content_rating:
+  adult: false
+typography_spectrum: 0.2818626172374934
+opengraph: {}
+title: Mal den Kirchentag gemeinsam erleben…
