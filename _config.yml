@@ -43,7 +43,60 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img alt="Mit diesem Video wollen wir uns bei dir f&uuml;r einen
+      wunderbaren Kirchentag in Berlin und Wittenberg bedanken! Wir hoffen, du
+      bist in Dortmund 2019 wieder dabei.
+      https://www.facebook.com/events/670061886430303/"
+      src="https://scontent.xx.fbcdn.net/v/t15.0-10/18819635_1523738084327557_5716663056512057344_n.jpg?oh=c3228e94d5537aed9eaf99288d38d5c0&oe=59B1143F">
+    src: >-
+      https://scontent.xx.fbcdn.net/v/t15.0-10/18819635_1523738084327557_5716663056512057344_n.jpg?oh=c3228e94d5537aed9eaf99288d38d5c0&oe=59B1143F
+    metadata:
+      author:
+        - name: Deutscher Evangelischer Kirchentag
+          url: 'http://facebook.com/104653466236033'
+          avatar:
+            src: >-
+              https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/12115434_1036034426431261_4853747392250795106_n.png?oh=4444060469107daeb10d40255aa6e142&oe=59B58D3F
+            width: 50
+            height: 50
+            colors:
+              - - 234
+                - 111
+                - 10
+              - - 249
+                - 249
+                - 249
+              - - 241
+                - 191
+                - 151
+      related: []
+      publisher:
+        url: 'http://www.facebook.com'
+        name: Facebook
+        favicon: 'https://www.facebook.com/rsrc.php/yV/r/hzMapiNYYpW.ico'
+        domain: www.facebook.com
+      keywords: []
+      description: >-
+        Mit diesem Video wollen wir uns bei dir für einen wunderbaren Kirchentag
+        in Berlin und Wittenberg bedanken! Wir hoffen, du bist in Dortmund 2019
+        wieder dabei. https://www.facebook.com/events/670061886430303/
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      title: ''
+      '@type': Photograph
+      app_links: []
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://www.facebook.com/kirchentag/videos/1523723504329015/'
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: >-
+      Mit diesem Video wollen wir uns bei dir für einen wunderbaren Kirchentag
+      in Berlin und Wittenberg bedanken! Wir hoffen, du bist in Dortmund 2019
+      wieder dabei. https://www.facebook.com/events/670061886430303/
+    text: !<tag:yaml.org,2002:js/undefined> ''
 navigation:
   - name: Zum Internetfenster der Gemeinde
     url: 'https://goo.gl/c7sXGH'
